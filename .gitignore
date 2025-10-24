@@ -35,3 +35,14 @@ desktop.ini
 # Electron
 out/
 
+# Development docs (not for public)
+magpiedocs/
+
+# Temporary files
+temp-app/
+favicon-base64.txt
+*.rar
+发布准备完成.md
+📦_Release_v1.0.0_完成报告.md
+RELEASE_CHECKLIST.md
+

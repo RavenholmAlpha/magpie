@@ -302,16 +302,15 @@ magpie/
 
 ## 📚 文档
 
-完整的文档位于 [`magpiedocs/`](./magpiedocs/) 目录：
+完整的文档位于 [`docs/`](./docs/) 目录：
 
-- [功能特性文档](./magpiedocs/features.md) - 详细的功能介绍
-- [快速开始指南](./magpiedocs/快速开始.md) - 新手入门教程
-- [开发指南](./magpiedocs/开发指南.md) - 开发者文档
-- [环境功能说明](./magpiedocs/环境功能完整说明.md) - 环境变量使用指南
-- [主题定制说明](./magpiedocs/主题预设和管理功能说明.md) - 主题编辑器使用
-- [Windows 构建说明](./magpiedocs/Windows构建说明.md) - Windows 平台构建指南
+- [快速开始](./docs/快速开始.md) - 快速上手指南
+- [功能特性](./docs/功能特性.md) - 详细的功能介绍
+- [安装指南](./docs/安装指南.md) - 安装说明和系统要求
+- [开发指南](./docs/开发指南.md) - 开发者文档
+- [GitHub 发布指南](./docs/GitHub发布指南.md) - 发布新版本指南
 
-更多文档请查看 [magpiedocs](./magpiedocs/) 目录。
+更多文档请查看 [docs](./docs/) 目录。
 
 ---
 

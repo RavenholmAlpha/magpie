@@ -72,11 +72,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 🐛 修复 URL 输入框自适应问题
 
 ### Documentation
-- 📚 完整的功能文档
-- 📚 快速开始指南
-- 📚 开发者指南
-- 📚 Windows 构建说明
-- 📚 GitHub 发布指南
+- 📚 完整的功能文档 ([docs/功能特性.md](./docs/功能特性.md))
+- 📚 快速开始指南 ([docs/快速开始.md](./docs/快速开始.md))
+- 📚 开发者指南 ([docs/开发指南.md](./docs/开发指南.md))
+- 📚 安装指南 ([docs/安装指南.md](./docs/安装指南.md))
+- 📚 GitHub 发布指南 ([docs/GitHub发布指南.md](./docs/GitHub发布指南.md))
 
 ---
 
@@ -115,4 +115,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 [1.0.0]: https://github.com/yourusername/magpie/releases/tag/v1.0.0
 [Unreleased]: https://github.com/yourusername/magpie/compare/v1.0.0...HEAD
+
 
