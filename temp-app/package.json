@@ -1,0 +1,17 @@
+{
+  "name": "magpie",
+  "version": "1.0.0",
+  "description": "一个现代化的HTTP API测试工具，类似Postman",
+  "main": "dist/main/main.js",
+  "author": "Magpie Team",
+  "license": "MIT",
+  "dependencies": {
+    "@monaco-editor/react": "^4.6.0",
+    "axios": "^1.6.2",
+    "electron-store": "^8.1.0",
+    "monaco-editor": "^0.45.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "uuid": "^9.0.1"
+  }
+}
